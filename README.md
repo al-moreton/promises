@@ -13,18 +13,18 @@ Project then available via locahost.
 
 ## ESlint
 
-```aiignore
+```
 npx eslint yourfile.js
 ```
 
 ## Prettier
 To run on current file:
-```aiignore
+```
 ⌘ Cmd + ⌥ Option + L
 ```
 
 To run via terminal on directory or file:
-```aiignore
+```
 npx prettier . --write
 ```
 
